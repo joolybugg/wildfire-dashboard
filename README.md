@@ -1,5 +1,11 @@
 # Wildfire Weather Dashboard
 
+## 🌐 Live Demo
+**https://wildfire-dashboard-853564661918.us-central1.run.app**
+
+![Dashboard preview](screenshots/dashboard-preview.png)
+
+Deployed on Google Cloud Run via Docker container.
 A real-time weather dashboard for high fire-risk California cities, built with ClojureScript and Reagent.
 
 ## Stack
